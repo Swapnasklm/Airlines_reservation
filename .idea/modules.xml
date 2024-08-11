@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Airlines Reservation/Airlines Reservation.iml" filepath="$PROJECT_DIR$/Airlines Reservation/Airlines Reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Airlines Reservation System Java Project.iml" filepath="$PROJECT_DIR$/.idea/Airlines Reservation System Java Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Airlines Reservation/src/Airlines Reservation1.iml" filepath="$PROJECT_DIR$/Airlines Reservation/src/Airlines Reservation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Airlines Reservation/build/build.iml" filepath="$PROJECT_DIR$/Airlines Reservation/build/build.iml" />
+    </modules>
+  </component>
+</project>
